@@ -4,8 +4,8 @@
 
 - [Multi-Skill Content Agent](#multi-skill-content-agent) · 个人工作流，真实内容产物
 - [StayWord](#stayword) · iOS 已上架，可下载体验
-- [BaicaiInfer](#baicaiinfer) · 创作者工具，有限公开的历史实践
-- [Lab4AI](#lab4ai) · 开发者工具，有限公开的历史实践
+- [BaicaiInfer](#baicaiinfer) · 创作者工具，项目实践复盘
+- [Lab4AI](#lab4ai) · 开发者工具，项目实践复盘
 - [RiverSR](#riversr) · 预测研究，已有正式模型与结果
 - [PriceMap AI](#pricemap-ai) · 网站已上线，可在线查询
 
@@ -33,9 +33,9 @@
 
 **创作者工具产品实践**
 
-![个人重绘示意：创作入口与可复用配置](projects/05-baicaiinfer/docs/diagrams/scenario-workflow.svg)
+![创作入口与场景配置的设计示意](projects/05-baicaiinfer/docs/diagrams/scenario-workflow.svg)
 
-围绕生成工具中的创作选择、反馈理解和结果使用，复盘我参与场景梳理、工作流交付与需求推进时的产品思考。案例以个人重绘示意配合职责与方法复盘，不放生产资料；属于历史实践，不作为当前可体验产品。
+创作者需要从模型、节点和参数中找到适合自己的生成方式。我参与创作场景梳理、工作流交付、用户反馈整理与需求推进，重点思考如何将技术配置转化为易理解的创作选择，以及如何让生成结果进入后续创作。
 
 [阅读实践复盘](projects/05-baicaiinfer/README.md)
 
@@ -43,9 +43,9 @@
 
 **开发者工具产品实践**
 
-![个人重绘示意：工作资料与审核副本分离](projects/06-lab4ai/docs/diagrams/review-copy.svg)
+![开发资料与审核副本分离的设计示意](projects/06-lab4ai/docs/diagrams/review-copy.svg)
 
-围绕复现任务的完成条件、交付要求和协作边界，复盘流程设计与亲自部署运行带来的认识。案例保留个人参与和通用判断，不展示内部系统、任务资料或经营数据；当前运行状态未作断言。
+模型在开发者环境中运行成功之后，还需要让他人能够检查和接手。我参与复现流程与交付要求设计，并亲自部署、运行和核对模型结果，从任务完成标准、成果送审与协作交接三个方面复盘产品设计。
 
 [阅读实践复盘](projects/06-lab4ai/README.md)
 
