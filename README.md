@@ -4,8 +4,8 @@
 
 - [Multi-Skill Content Agent](#multi-skill-content-agent) · 个人工作流，真实内容产物
 - [StayWord](#stayword) · iOS 已上架，可下载体验
-- [BaicaiInfer](#baicaiinfer) · 工作流交付回顾，影视方案为原型
-- [Lab4AI](#lab4ai) · 流程设计与复现回顾，任务原件待补
+- [BaicaiInfer](#baicaiinfer) · 创作者工具，有限公开的历史实践
+- [Lab4AI](#lab4ai) · 开发者工具，有限公开的历史实践
 - [RiverSR](#riversr) · 预测研究，已有正式模型与结果
 - [PriceMap AI](#pricemap-ai) · 网站已上线，可在线查询
 
@@ -31,23 +31,19 @@
 
 ## BaicaiInfer
 
-**AIGC 场景工作流与创作体验**
+**创作者工具产品实践**
 
-![场景创作入口与底层配置的关系：根据既有公开说明重绘](projects/05-baicaiinfer/docs/diagrams/scenario-workflow.svg)
+围绕生成工具中的创作选择、反馈理解和结果使用，复盘我参与场景梳理、工作流交付与需求推进时的产品思考。案例保留个人职责和通用方法，不展示项目资产或内部设计；属于历史实践，不作为当前可体验产品。
 
-创作者需要背景替换、图像风格化和可控的视频时长。我将节点配置封装成场景入口，并通过内测反馈推进历史记录、素材上传、预览和时长控制。场景工作流与平台迭代已有交付回顾，影视方案处于原型阶段。图为机制复盘，具体工作流产物与迭代验证原件仍待补。
-
-[阅读案例与时长迭代](projects/05-baicaiinfer/README.md) · [查看机制图](projects/05-baicaiinfer/docs/diagrams/scenario-workflow.svg)
+[阅读实践复盘](projects/05-baicaiinfer/README.md)
 
 ## Lab4AI
 
-**开发者复现流程与成果审核**
+**开发者工具产品实践**
 
-![开发工作目录和送审副本分离：根据既有公开说明重绘](projects/06-lab4ai/docs/diagrams/review-copy.svg)
+围绕复现任务的完成条件、交付要求和协作边界，复盘流程设计与亲自部署运行带来的认识。案例保留个人参与和通用判断，不展示内部系统、任务资料或经营数据；当前运行状态未作断言。
 
-开发者复现模型后，需要交接可审核的代码、数据、模型和环境。我设计任务流转与“一键提交—自动复制—独立送审”，将继续开发和本次审核分开；通过 Kronos 复现补充交付要求。流程与机制按已确认工作复盘，具体任务产物及审核记录尚未收录。
-
-[阅读案例](projects/06-lab4ai/README.md) · [任务流程图](projects/06-lab4ai/docs/diagrams/task-review-flow.svg) · [送审机制图](projects/06-lab4ai/docs/diagrams/review-copy.svg)
+[阅读实践复盘](projects/06-lab4ai/README.md)
 
 ## RiverSR
 
