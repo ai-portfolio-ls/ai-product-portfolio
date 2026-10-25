@@ -3,3 +3,5 @@
 
 # New local trials; curated evidence is saved separately under demo/evaluation.
 projects/01-content-agent/runs/
+
+.maintenance/
