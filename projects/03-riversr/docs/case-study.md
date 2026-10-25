@@ -1,4 +1,4 @@
-# RiverSR：研究需求、交付标准与应用规划
+# RiverSR：研究使用场景与应用规划
 
 [返回项目](../README.md) · [实验演进与结果依据](decision-timeline.md) · [训练与技术方案](technical-design.md)
 

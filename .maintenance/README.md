@@ -1,9 +1,10 @@
 # 作品集维护资料
 
-这里保留来源版本、导入检查、编辑计划、迁移历史和待补材料，供后续维护使用。产品案例的阅读入口是[作品集首页](../README.md)。
+本仓库公开，维护目录也公开；非公开核验原件留在仓库之外。这里保留来源版本、导入检查、编辑计划、迁移历史和待补材料，供后续维护使用。产品案例的阅读入口是[作品集首页](../README.md)。
 
 - [来源说明](SOURCES.md)、[来源版本](sources.json)、[同步核对](SOURCE_CHECK.md)、[初次导入记录](IMPORT_CHECK.md)。
-- [整理计划](PORTFOLIO_PLAN.md)、[历史进度](ROADMAP.md)。
+- [现行改版计划](PORTFOLIO_REDESIGN_PLAN_2026-10-25.md)、[本轮及历史进度](ROADMAP.md)、[公开主张索引](CLAIMS_REGISTER.md)、[本轮验收](REDESIGN_REVIEW_2026-10-25.md)。
+- [三项目阶段历史计划](PORTFOLIO_PLAN.md)，只作为当时的决策记录。
 - [内容项目](projects/01-content-agent/)：材料恢复、截图计划、目录迁移与编辑审查。
 - [StayWord](projects/02-stayword/)：编辑参考、阅读审查与补录计划。
 - [PriceMap AI 来源同步](projects/04-pricemapai/source-sync.json)：个人仓库复制、完整历史与逐文件一致性。
